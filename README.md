@@ -15,5 +15,6 @@ npm install --save react react-dom
 npm install webpack -g
 npm install --save-dev webpack
 npm install --save-dev babel-core, babel-loader, babel-preset-react
+npm install --save axios
 ```
 
