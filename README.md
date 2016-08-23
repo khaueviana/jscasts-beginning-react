@@ -18,3 +18,8 @@ npm install --save-dev babel-core, babel-loader, babel-preset-react
 npm install --save axios
 ```
 
+Usage
+-----
+
+1. Run `webpack`
+2. View in browser `index.html`
